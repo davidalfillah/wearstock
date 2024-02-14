@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Contoh1",
+    "url": "ImgJpg1",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "Irfan Hardiansyah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "CDR" },
+      { "id": 4, "name": "EPS" },
+      { "id": 5, "name": "CDR" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Contoh2",
+    "url": "ImgJpg2",
+    "freeLeciese": false,
+    "author": {
+      "id": 1,
+      "name": "Muhammad Mulyadi",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "CDR" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Contoh3",
+    "url": "ImgJpg3",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Contoh4",
+    "url": "ImgJpg4",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Contoh5",
+    "url": "ImgJpg5",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Contoh5",
+    "url": "ImgJpg6",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Contoh5",
+    "url": "ImgJpg7",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Contoh5",
+    "url": "ImgJpg8",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Contoh5",
+    "url": "ImgJpg9",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Contoh5",
+    "url": "ImgJpg10",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Contoh5",
+    "url": "ImgJpg11",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Contoh5",
+    "url": "ImgJpg12",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "EPS" }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Contoh5",
+    "url": "ImgJpg13",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "CDR" }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Contoh5",
+    "url": "ImgJpg14",
+    "freeLeciese": true,
+    "author": {
+      "id": 1,
+      "name": "David Alfillah",
+      "image": "https://img.freepik.com/premium-vector/cardinal-mascot-logo-design-cardinal-vector-illustration_921448-301.jpg"
+    },
+    "fileType": [
+      { "id": 1, "name": "AI" },
+      { "id": 2, "name": "PDF" },
+      { "id": 3, "name": "CDR" }
+    ]
+  }
+]

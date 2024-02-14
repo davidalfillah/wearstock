@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "title": "Assets",
+    "icon": "Interests",
+    "info": "Use this Filter",
+    "type": "text",
+    "param": "type",
+    "new": false,
+    "defaultExpanded": true,
+    "filterList": [
+      {
+        "id": 1,
+        "name": "Vectors",
+        "slug": "vectors",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 2,
+        "name": "Photos",
+        "slug": "photos",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": true
+      },
+      {
+        "id": 3,
+        "name": "Icons",
+        "slug": "icons",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 4,
+        "name": "Mockups",
+        "slug": "mockups",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "License",
+    "icon": "Premium",
+    "info": "",
+    "type": "text",
+    "param": "premium",
+    "new": false,
+    "defaultExpanded": true,
+    "filterList": [
+      {
+        "id": 1,
+        "name": "Free",
+        "slug": "free",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": true
+      },
+      {
+        "id": 2,
+        "name": "Premium",
+        "slug": "premium",
+        "icon": "Premium",
+        "color": "",
+        "colorText": "",
+        "new": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Colors",
+    "icon": "Palette",
+    "info": "",
+    "type": "color",
+    "param": "color",
+    "new": true,
+    "defaultExpanded": true,
+    "filterList": [
+      {
+        "id": 1,
+        "name": "Red",
+        "slug": "red",
+        "icon": "",
+        "color": "red",
+        "colorText": "white",
+        "new": false
+      },
+      {
+        "id": 2,
+        "name": "Blue",
+        "slug": "blue",
+        "icon": "",
+        "color": "blue",
+        "colorText": "white",
+        "new": false
+      },
+      {
+        "id": 3,
+        "name": "Green",
+        "slug": "green",
+        "icon": "",
+        "color": "green",
+        "colorText": "black",
+        "new": false
+      },
+      {
+        "id": 4,
+        "name": "Yellow",
+        "slug": "yellow",
+        "icon": "",
+        "color": "yellow",
+        "colorText": "black",
+        "new": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "File Type",
+    "icon": "Document",
+    "info": "",
+    "type": "text",
+    "param": "format",
+    "new": false,
+    "defaultExpanded": true,
+    "filterList": [
+      {
+        "id": 1,
+        "name": "PDF",
+        "slug": "pdf",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": true
+      },
+      {
+        "id": 2,
+        "name": "AI",
+        "slug": "ai",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 3,
+        "name": "EPS",
+        "slug": "eps",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 4,
+        "name": "CDR",
+        "slug": "cdr",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 5,
+        "name": "JPG",
+        "slug": "jpg",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 6,
+        "name": "SVG",
+        "slug": "svg",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 7,
+        "name": "CLO",
+        "slug": "clo",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Style",
+    "icon": "Awesome",
+    "info": "Use this Filter",
+    "type": "text",
+    "param": "style",
+    "new": false,
+    "defaultExpanded": true,
+    "filterList": [
+      {
+        "id": 1,
+        "name": "Watercolor",
+        "slug": "watercolor",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": true
+      },
+      {
+        "id": 2,
+        "name": "Flat",
+        "slug": "flat",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 3,
+        "name": "3D",
+        "slug": "3d",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 4,
+        "name": "Cartoon",
+        "slug": "cartoon",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 5,
+        "name": "Geometric",
+        "slug": "geometric",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 6,
+        "name": "Gradient",
+        "slug": "gradient",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 7,
+        "name": "Isometric",
+        "slug": "isometric",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      },
+      {
+        "id": 8,
+        "name": "Hand Drawing",
+        "slug": "hand-drawing",
+        "icon": "",
+        "color": "",
+        "colorText": "",
+        "new": false
+      }
+    ]
+  }
+]
